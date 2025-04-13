@@ -1,5 +1,5 @@
-**This project is an IoT-based smart health monitoring system designed to track and predict health risks using real-time sensor data. The system uses multiple sensors to measure heart rate, temperature, ECG signals, and air quality and visualizes the data through a Flask web application.
-**
+**This project is an IoT-based smart health monitoring system designed to track and predict health risks using real-time sensor data. The system uses multiple sensors to measure heart rate, temperature, ECG signals, and air quality and visualizes the data through a Flask web application.**
+
 Hardware Used
 ESP32 — Microcontroller for sensor data handling and WiFi communication
 
